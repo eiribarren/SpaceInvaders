@@ -52,7 +52,7 @@ def main():
 # Inicializaciones pygame
 	screen = pygame.display.set_mode((WIDTH, HEIGHT))
 	pygame.display.set_caption("Space Invaders")
-	background_image = load_image('images/fondo_pong.png')
+	background_image = load_image('images/fondo_espacio.jpg')
 	
 # Inicializaciones elementos de juego
 
